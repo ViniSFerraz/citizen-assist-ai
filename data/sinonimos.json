@@ -1,0 +1,11 @@
+{
+    "tijolo": ["entulho", "obra"],
+    "cimento": ["entulho", "obra"],
+    "cama": ["movel", "moveis"],
+    "armario": ["movel", "moveis"],
+    "notebook": ["computador", "eletronico"],
+    "smartphone": ["celular", "eletronico"],
+    "comprimido": ["remedio", "medicamento"],
+    "latinha": ["reciclavel", "reciclagem"],
+    "garrafa": ["reciclavel", "reciclagem"]
+}

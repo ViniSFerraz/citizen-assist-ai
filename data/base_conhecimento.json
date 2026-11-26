@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "categoria": "Entulho e móveis",
+        "titulo": "Levar entulho ao Ecoponto",
+        "palavras_chave": ["entulho", "ecoponto", "reforma", "obra", "poda"],
+        "resposta": "Os Ecopontos da Prefeitura recebem de graça até 1 m³ por dia de entulho de pequenas reformas, além de móveis velhos, podas de árvores, papelão e plástico.",
+        "fonte": "https://prefeitura.sp.gov.br/w/ecopontos-saiba-onde-descartar-pequenos-volumes-de-entulho-de-maneira-correta-e-gratuita",
+        "acessos": 0
+    },
+    {
+        "id": 2,
+        "categoria": "Entulho e móveis",
+        "titulo": "Descartar móveis pelo Cata-Bagulho",
+        "palavras_chave": ["cata bagulho", "movel", "moveis", "sofa", "colchao"],
+        "resposta": "A Operação Cata-Bagulho recolhe de graça móveis usados, colchões, sofás e eletrodomésticos sem uso. Os caminhões passam em datas programadas por região, então consulte o calendário da sua subprefeitura.",
+        "fonte": "https://prefeitura.sp.gov.br/web/subprefeituras/w/catabagulho/19780",
+        "acessos": 0
+    },
+    {
+        "id": 3,
+        "categoria": "Eletrônicos",
+        "titulo": "Descartar pilhas e baterias",
+        "palavras_chave": ["pilha", "pilhas", "bateria", "baterias"],
+        "resposta": "As lojas que vendem pilhas e baterias e as assistências técnicas autorizadas são obrigadas a receber as pilhas e baterias usadas.",
+        "fonte": "Resolução CONAMA nº 401/2008, art. 4º",
+        "acessos": 0
+    },
+    {
+        "id": 4,
+        "categoria": "Eletrônicos",
+        "titulo": "Descartar eletroeletrônicos pequenos",
+        "palavras_chave": ["eletronico", "eletronicos", "eletroeletronico", "celular", "computador"],
+        "resposta": "Eletroeletrônicos de uso doméstico entram no sistema de logística reversa: o consumidor deve entregar o produto em um ponto de recebimento.",
+        "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/d10240.htm",
+        "acessos": 0
+    },
+    {
+        "id": 5,
+        "categoria": "Lixo de casa",
+        "titulo": "Consultar o dia da coleta seletiva",
+        "palavras_chave": ["coleta seletiva", "reciclavel", "reciclaveis", "reciclagem", "caminhao"],
+        "resposta": "A coleta seletiva atende os 96 distritos da cidade. Consulte os dias e horários da sua rua em coleta.prefeitura.sp.gov.br e coloque os recicláveis na calçada até 2 horas antes da coleta.",
+        "fonte": "https://prefeitura.sp.gov.br/web/spregula/w/residuos_solidos/coleta_seletiva/4623",
+        "acessos": 0
+    },
+    {
+        "id": 6,
+        "categoria": "Lixo de casa",
+        "titulo": "Descartar remédios vencidos",
+        "palavras_chave": ["remedio", "remedios", "medicamento", "medicamentos", "vencido"],
+        "resposta": "Remédios vencidos ou que você não usa mais, junto com as embalagens, devem ser levados aos pontos de coleta de farmácias e drogarias.",
+        "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/d10388.htm",
+        "acessos": 0
+    }
+]
