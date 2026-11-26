@@ -19,3 +19,4 @@ Assistente de terminal que orienta o morador de São Paulo sobre onde descartar 
 * `data/sinonimos.json`: sinônimos
 * `data/relatorio.csv`: gerado pela opção 4 do menu
 
+Vídeo - https://youtu.be/9t2aPE2deD4
